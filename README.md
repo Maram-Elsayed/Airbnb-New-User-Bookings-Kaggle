@@ -1,6 +1,8 @@
 My solution to Kaggle Airbnb new user booking challenge : https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
 
-This solution got 0.82216 nDCCG score.                                                   
+This solution got 0.82216 nDCCG score. 
+
+Here is a link to sessions.csv file as it is to big to upload: https://drive.google.com/open?id=1a7tLQSLwDobdv_Omu0rhGjjd-g5HZE7z
                                                    
                                                    
                                                    Airbnb New User Bookings
