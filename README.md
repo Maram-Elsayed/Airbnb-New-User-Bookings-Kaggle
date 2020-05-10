@@ -3,8 +3,11 @@ My solution to Kaggle Airbnb new user booking challenge : https://www.kaggle.com
 This solution got 0.82216 nDCCG score. 
 
 Here are somes links to files that were too big to upload:
+
 sessions.csv: https://drive.google.com/open?id=1a7tLQSLwDobdv_Omu0rhGjjd-g5HZE7z
+
 train_scaled_2.csv: https://drive.google.com/open?id=1-FXiuMXIzh-NpdKrfqfVynxPvv7MrAHy
+
 test_scaled_2.csv: https://drive.google.com/open?id=1-GsA_qqIB7MTulfDpQ4B2MCka7hmzpSV
                                                    
                                                    
